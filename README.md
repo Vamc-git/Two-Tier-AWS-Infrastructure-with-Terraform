@@ -72,10 +72,6 @@ These project highlights showcase the comprehensive AWS services integrated into
 
 For an in-depth walkthrough of the project, check out the detailed guide on [Hashnode](https://harshhaa.hashnode.dev/deploy-two-tier-architecture-on-aws-using-terraform).
 
-## Connect with Me
-
-- GitHub: [GitHub Profile](https://github.com/NotHarshhaa)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)
 
 ## Contributions
 
